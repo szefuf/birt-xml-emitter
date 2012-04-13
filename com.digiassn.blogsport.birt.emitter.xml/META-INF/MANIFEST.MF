@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Xml
+Bundle-SymbolicName: com.digiassn.blogsport.birt.emitter.xml;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.digiassn.blogsport.birt.emitter.xml.Activator
+Bundle-Vendor: John Ward
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.birt.report.engine,
+ org.junit
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
