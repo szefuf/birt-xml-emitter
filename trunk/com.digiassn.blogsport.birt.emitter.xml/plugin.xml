@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.birt.report.engine.emitters">
+      <emitter
+            class="com.digiassn.blogsport.birt.emitter.xml.XMLEmitter"
+            format="xml"
+            id="com.digiassn.blogsport.birt.emitter.xml.XMLEmitter"
+            mimeType="text/xml">
+      </emitter>
+   </extension>
+
+</plugin>
