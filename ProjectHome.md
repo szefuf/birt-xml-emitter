@@ -1,0 +1,1 @@
+The purpose of this emitter is to assist report developers who would like to unit test their report designs. It can be used for a number of other use cases, such as running through an XSLT transformation.
